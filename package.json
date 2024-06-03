@@ -1,0 +1,26 @@
+{
+  "name": "rentingcars",
+  "version": "1.0.0",
+  "description": "Ejercicio de aprendizaje",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IvonneCaPa/rentingCoches.git"
+  },
+  "keywords": [
+    "node",
+    "express",
+    "ejs",
+    "body",
+    "js"
+  ],
+  "author": "Ivonne",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/IvonneCaPa/rentingCoches/issues"
+  },
+  "homepage": "https://github.com/IvonneCaPa/rentingCoches#readme"
+}
